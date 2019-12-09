@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Data download](data-download.md)
 * [Next releases](releases.md)
+* [How to cite](how-to-cite.md)
 
 ## Pheweb Browser <a id="pheweb"></a>
 
