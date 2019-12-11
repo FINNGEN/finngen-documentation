@@ -1,4 +1,4 @@
 # Contact
 
-If you see , make a github PR or send us an email.
+For matters related to this documentation, click `Edit on GitHub`or send us an email. 
 

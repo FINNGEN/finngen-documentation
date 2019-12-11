@@ -19,7 +19,10 @@
 ## Methods
 
 * [Cohort description](methods/cohort-description.md)
-* [Genotype imputation](methods/genotype-imputation.md)
+* [Genotypes](methods/genotype-imputation/README.md)
+  * [Genotype data](methods/genotype-imputation/genotype-data.md)
+  * [Genotype imputation](methods/genotype-imputation/genotype-imputation.md)
+  * [SISu reference panel](methods/genotype-imputation/sisu-reference-panel.md)
 * [Endpoints](methods/endpoints.md)
 * [Quality checks](methods/quality-checks.md)
 * [PheWAS](methods/phewas.md)

@@ -1,0 +1,2 @@
+# Genotype data
+

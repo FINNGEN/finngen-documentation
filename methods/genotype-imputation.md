@@ -1,2 +1,0 @@
-# Genotype imputation
-

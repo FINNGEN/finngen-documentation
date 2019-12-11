@@ -1,8 +1,6 @@
 # Introduction
 
-FinnGen is a research project that... 
+FinnGen a public-private partnership project combining genotype data from Finnish biobanks and digital health record data from Finnish health registries. FinnGen provides a unique opportunity to study genetic variation in relation to disease trajectories in an isolated population.
 
-At the moment, the R2 release with xx'xxx individuals is available. The R3 release will become available in ... 
-
-Timeline
+The latest R2 release contains data from 96'499 individuals. 
 
