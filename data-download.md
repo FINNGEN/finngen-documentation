@@ -12,7 +12,7 @@ You can use the following text:
 
 ## Description
 
-Per endpoint a `.gz` and `gz.tbi` pair \(tbi generated with [tabix](https://github.com/samtools/htslib)\). For example, endpoint `I9_CHD` has `I9_CHD.gz`  and `I9_CHD.gz.tbi`.
+For each endpoint there is a `.gz` and `gz.tbi` file \(tbi generated with [tabix](https://github.com/samtools/htslib)\). For example, endpoint `I9_CHD` has `I9_CHD.gz`  and `I9_CHD.gz.tbi`.
 
 To learn more about the methods used, see [PheWAS](methods/phewas.md).  
 
