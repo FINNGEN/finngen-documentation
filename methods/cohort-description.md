@@ -1,8 +1,6 @@
-# Cohort description
+# Participating cohorts
 
 The following cohorts are part of the R2 release:
-
-_hannele matsson_
 
 * FINRISK
 * Botnia

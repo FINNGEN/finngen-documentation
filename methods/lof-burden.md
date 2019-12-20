@@ -1,6 +1,6 @@
-# LoF burden
+# Loss of function burden
 
-The LoF burden was calculated per gene.
+The loss of function \(LoF\) burden was calculated per gene.
 
 For each individual and gene, the number of variants with a loss of function First, variants that carry a loss of function were defined
 

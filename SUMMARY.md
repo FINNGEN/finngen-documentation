@@ -16,16 +16,16 @@
 
 ## Methods
 
-* [Cohort description](methods/cohort-description.md)
+* [Participating cohorts](methods/cohort-description.md)
 * [Genotypes](methods/genotype-imputation/README.md)
   * [Genotype data](methods/genotype-imputation/genotype-data.md)
   * [Genotype imputation](methods/genotype-imputation/genotype-imputation.md)
   * [SISu reference panel](methods/genotype-imputation/sisu-reference-panel.md)
 * [Endpoints](methods/endpoints.md)
-* [Quality checks](methods/quality-checks.md)
-* [PheWAS](methods/phewas.md)
+* [Quality control](methods/quality-checks.md)
+* [GWAS](methods/phewas.md)
 * [Annotation](methods/annotation.md)
-* [LoF burden](methods/lof-burden.md)
+* [Loss of function burden](methods/lof-burden.md)
 * [Contact](methods/contact.md)
 * [Github](https://github.com/FINNGEN/)
 * [FinnGen](https://www.finngen.fi/en)

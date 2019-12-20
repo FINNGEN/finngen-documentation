@@ -1,4 +1,4 @@
-# Quality checks
+# Quality control
 
 In summary, we removed xx samples who were either of non-Finnish ancestry or twins/duplicates. Finnish ancestry was assessed with a combination of [PCA](quality-checks.md) and a Bayesian method for outlier detection. Related or duplicate samples were detected using [kinship analysi](quality-checks.md). We also excluded xx samples that had missing minimum phenotype data.
 

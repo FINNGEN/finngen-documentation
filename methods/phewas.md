@@ -1,4 +1,4 @@
-# PheWAS
+# GWAS
 
 We used the SAIGE software for running the R2 GWAS for
 
