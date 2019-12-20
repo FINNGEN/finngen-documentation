@@ -2,7 +2,7 @@
 
 FinnGen a public-private partnership project combining genotype data from Finnish biobanks and digital health record data from Finnish health registries. FinnGen provides a unique opportunity to study genetic variation in relation to disease trajectories in an isolated population.
 
-The R2 release contains data from 96'499 individuals. 
+FinnGen is a growing project, aiming at 500'000 individuals in 2023. The R2 release contains data from 96'499 individuals. 
 
-FinnGen results are available in the [Pheweb browser](pheweb/manhattanplot.md) or through [data download](data-download.md). 
+FinnGen results are available in the [Pheweb browser](http://r2.finngen.fi/) or through [data download](data-download.md). 
 
