@@ -26,8 +26,8 @@
 * [PheWAS](methods/phewas.md)
 * [Annotation](methods/annotation.md)
 * [LoF burden](methods/lof-burden.md)
-* [Contact](contact.md)
+* [Contact](methods/contact.md)
 * [Github](https://github.com/FINNGEN/)
 * [FinnGen](https://www.finngen.fi/en)
-* [FAQ](faq.md)
+* [FAQ](methods/faq.md)
 

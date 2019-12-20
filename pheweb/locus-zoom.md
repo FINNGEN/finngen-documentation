@@ -1,6 +1,6 @@
 # Locus zoom
 
-Contains 4 panels: 
+Contains 4 panels:
 
 * FinnGen locuszoomplot
 * Annotation with GWAS catalog variants + UK Biobank hits
@@ -20,3 +20,4 @@ UK Biobank
 Clinvar
 
 ExAC
+
