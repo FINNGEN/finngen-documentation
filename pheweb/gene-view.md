@@ -1,4 +1,6 @@
 # Gene view
 
-includes loF burden
+LoF burden
+
+in phenotype list too
 
