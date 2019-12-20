@@ -13,3 +13,10 @@ Images can be downloaded
 
 ![](../.gitbook/assets/screenshot-2019-12-06-at-14.29.23%20%281%29.png)
 
+GWAS Catalog
+
+UK Biobank
+
+Clinvar
+
+ExAC
