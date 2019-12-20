@@ -8,7 +8,7 @@ Chip genotyping data produced with previous chip platforms and reference genome 
 
 ## Quality control
 
-In sample-wise quality control, individuals with ambiguous gender, high genotype missingness \(&gt;5%\), excess heterozygosity \(+-4SD\) and non-Finnish ancestry were excluded. In variant-wise quality control variants with high missingness \(&gt;2%\), low HWE P-value \(&lt;1e-6\) and minor allele count, MAC&lt;3 were excluded.
+In **sample-wise** quality control, individuals with ambiguous gender, high genotype missingness \(&gt;5%\), excess heterozygosity \(+-4SD\) and non-Finnish ancestry were excluded. In **variant-wise** quality control variants with high missingness \(&gt;2%\), low HWE P-value \(&lt;1e-6\) and minor allele count, MAC&lt;3 were excluded.
 
 ## Pre-phasing
 
