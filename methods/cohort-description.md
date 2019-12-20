@@ -1,4 +1,4 @@
 # Cohort description
 
-Which cohorts are part of FinnGen R2?
+_Which cohorts are part of FinnGen R2?_
 

@@ -4,3 +4,5 @@ FinnGen a public-private partnership project combining genotype data from Finnis
 
 The R2 release contains data from 96'499 individuals. 
 
+FinnGen results are available in the [Pheweb browser](pheweb/manhattanplot.md) or through [data download](data-download.md). 
+

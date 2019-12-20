@@ -6,10 +6,9 @@ Go to [this link](https://elomake.helsinki.fi/lomakkeet/102575/lomake.html) to d
 
 Please remember to **acknowledge** the FinnGen study when using these results in publications. 
 
-You can use the following text:   
-“_We want to acknowledge the participants and investigators of FinnGen study_”.
+You can use the following text: 
 
-More about citation in [How to cite](how-to-cite.md).
+> _We want to acknowledge the participants and investigators of FinnGen study_.
 
 ## Description
 

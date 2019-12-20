@@ -6,11 +6,17 @@ At the moment, the R2 release with xx'xxx individuals is available. The R3 relea
 
 ### For which endpoints are PheWAS results available?
 
-See endpoints
+For xyz endpoints that had more than 100 cases, see [Endpoints](methods/endpoints.md). 
 
-### What do the columns mean in the PheWAS output?
+### What do the columns mean in the PheWAS gz and gz.tbi output?
 
-see pheWAS
+These are columns from the SAIGE output, see [Data download](data-download.md#description).
+
+
+
+
+
+
 
 
 
