@@ -10,11 +10,9 @@
 * [Get started](pheweb/introduction.md)
 * [Phenotype list](pheweb/phenotype-list.md)
 * [Phenotype view](pheweb/manhattanplot.md)
-* [Regional view](pheweb/locus-zoom.md)
+* [Locus zoom](pheweb/locus-zoom.md)
 * [Variant view](pheweb/variant-view.md)
 * [Gene view](pheweb/gene-view.md)
-* [LoF burden](pheweb/lof-burden.md)
-* [Download Images](pheweb/download-images.md)
 
 ## Methods
 

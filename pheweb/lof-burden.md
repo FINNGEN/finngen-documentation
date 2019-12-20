@@ -1,2 +1,0 @@
-# LoF burden
-

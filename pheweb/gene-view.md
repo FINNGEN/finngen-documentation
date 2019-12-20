@@ -1,4 +1,4 @@
 # Gene view
 
-Gen
+includes loF burden
 
