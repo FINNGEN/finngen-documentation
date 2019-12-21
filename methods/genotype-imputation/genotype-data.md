@@ -4,7 +4,7 @@ Chip genotype data processing and QC Samples were genotyped with Illumina \(Illu
 
 Genotype calls were made with GenCall and zCall algorithms for Illumina and AxiomGT1 algorithm for Affymetrix data.
 
-Chip genotyping data produced with previous chip platforms and reference genome builds were lifted over to build version 38 \(GRCh38/hg38\) following the protocol described here: dx.doi.org/10.17504/protocols.io.nqtddwn.
+Chip genotyping data produced with previous chip platforms and reference genome builds were lifted over to build version 38 \(GRCh38/hg38\) following the protocol described here: [dx.doi.org/10.17504/protocols.io.nqtddwn](https://dx.doi.org/10.17504/protocols.io.nqtddwn).
 
 ## Quality control
 

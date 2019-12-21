@@ -9,7 +9,7 @@
 5. Merck/Tienari samples \(PI Pentti Tienari\)
 6. MESTA samples \(PI Jaana Suvisaari\)
 
-More information about the reference panel here: _link to pub_
+High-coverage \(25-30x\) WGS data used to develop the SISu v3 reference panel were generated at the Broad Institute of MIT and Harvard and at the McDonnell Genome Institute at Washington University; and jointly processed at the Broad Institute.
 
-High-coverage \(25-30x\) WGS data used to develop the SISu v3 reference panel \(Pärn et al., manuscript in preparation\) were generated at the Broad Institute of MIT and Harvard and at the McDonnell Genome Institute at Washington University; and jointly processed at the Broad Institute.
+More information about the reference panel here: 
 

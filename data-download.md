@@ -1,6 +1,6 @@
 # Data download
 
-Go to [this link](https://elomake.helsinki.fi/lomakkeet/102575/lomake.html) to download FinnGen summary statistics. 
+To download FinnGen summary statistics, go to [this link](https://elomake.helsinki.fi/lomakkeet/102575/lomake.html).
 
 ## Using FinnGen data for publications
 
