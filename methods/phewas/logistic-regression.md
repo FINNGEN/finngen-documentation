@@ -1,4 +1,4 @@
-# Logistic regression
+# Association tests
 
 ## Null models
 
@@ -8,7 +8,7 @@ For the null model computation for each endpoint, we used age, sex, 10 PCs and g
 * traceCVcutoff 0.0025
 * ratioCVcutoff 0.001
 
-## Association tests
+## SAIGE
 
 We ran association tests against each of the 2,444 endpoints with SAIGE for each variant with a minimum allele count of 5 from the imputation pipeline \(SAIGE option minMAC = 5\). We filtered the results to include variants with an imputation INFO &gt; 0.6.
 
