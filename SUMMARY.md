@@ -26,7 +26,6 @@
   * [Quality control](methods/phewas/quality-checks.md)
   * [Logistic regression](methods/phewas/logistic-regression.md)
   * [Summary statistics](methods/phewas/summary-statistics.md)
-* [Annotation](methods/annotation.md)
 * [Loss of function burden](methods/lof-burden.md)
 * [Contact](methods/contact.md)
 * [Github](https://github.com/FINNGEN/)

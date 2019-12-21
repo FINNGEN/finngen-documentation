@@ -16,7 +16,7 @@ The PCA for population structure has been run in the following way: Variant filt
 * Exclusion of variants with info score &lt; 0.95
 * Exclusion of variants with missingness &gt; 0.01 \(based on the GP,see conversion\)
 * Exclusion of variants with MAF &lt; 0.05
-* LD pruning with window 500kb, step 50kb, r^2 filter of 0.1
+* LD pruning with window 500kb, step 50kb, $$R^2 $$ filter of 0.1
 
   This filtering step produced 36,944 variants, that were used for the rest of the analysis
 

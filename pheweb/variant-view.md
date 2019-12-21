@@ -7,6 +7,10 @@ The variant view has the following url: \`[http://r2.finngen.fi/variant/&lt;chr&
 * ref: reference allele
 * alt: alternative allele
 
+
+
+
+
 {% embed url="http://r2.finngen.fi/variant/6-25822689-C-T" %}
 
 ![](../.gitbook/assets/screenshot-2019-12-06-at-14.33.29.png)

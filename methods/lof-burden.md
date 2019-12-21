@@ -1,8 +1,8 @@
 # Loss of function burden
 
-The loss of function \(LoF\) burden was calculated per gene.
+For every endpoint, we estimated the loss of function \(LoF\) burden of each gene.
 
-For each individual and gene, the number of variants with a loss of function First, variants that carry a loss of function were defined
+First, we calculated the number of variants with a loss of function per individual and gene, yielding a $$n \times p$$ matrix \( $$n$$being the number of individuals and $$p $$ the number of genes\). 
 
-To calculate the LoF burden per gene, first variants that carry a loss of function were defined. was calculated
+Second, we used the new summarised variables as input in the SAIGE GWAS, replacing the genotype matrix that was used in the regular GWAS. 
 
