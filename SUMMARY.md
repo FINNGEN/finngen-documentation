@@ -16,7 +16,7 @@
 
 ## Methods
 
-* [Participating cohorts](methods/cohort-description.md)
+* [Participating biobanks/cohorts](methods/cohort-description.md)
 * [Genotypes](methods/genotype-imputation/README.md)
   * [Genotype data](methods/genotype-imputation/genotype-data.md)
   * [Genotype imputation](methods/genotype-imputation/genotype-imputation.md)

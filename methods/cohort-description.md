@@ -1,6 +1,6 @@
-# Participating cohorts
+# Participating biobanks/cohorts
 
-The following cohorts are part of the R2 release:
+The following biobanks and cohorts are part of the R2 release:
 
 * [FINRISK](https://thl.fi/en/web/thlfi-en/research-and-expertwork/population-studies/the-national-finrisk-study)
 * [Botnia](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/the-botnia-study)
