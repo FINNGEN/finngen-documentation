@@ -1,6 +1,6 @@
 # Data download
 
-To download FinnGen summary statistics, go to [this link](https://elomake.helsinki.fi/lomakkeet/102575/lomake.html).
+To download FinnGen summary statistics you will need to fill the online form at  [this link](https://elomake.helsinki.fi/lomakkeet/102575/lomake.html). You will then receive an email containing the detailed instructions for downloading the data.
 
 ## Using FinnGen data for publications
 
@@ -27,7 +27,7 @@ The `{endpoint}.gz` have the following structure:
 | `rsids` | variant identifier |
 | `nearest_genes` | nearest gene name from variant |
 | `pval` | p-value from [SAIGE](https://github.com/weizhouUMICH/SAIGE) |
-| `beta` | effect size estimated with [SAIGE](https://github.com/weizhouUMICH/SAIGE) |
+| `beta` | effect size estimated with [SAIGE](https://github.com/weizhouUMICH/SAIGE) for the alternative allele |
 | `sebeta` | standard deviation of effect size estimated with [SAIGE](https://github.com/weizhouUMICH/SAIGE) |
 | `maf` | minor allele frequency |
 | `maf_cases` | minor allele frequency among cases |
