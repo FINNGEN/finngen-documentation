@@ -2,7 +2,7 @@
 
 The following biobanks and cohorts are part of the R2 release:
 
-* SUPER
+* [SUPER](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/super-study)
 * [Auria Biobank](https://auria.fi/en/)
 * [Blood Service Biobank](https://www.bloodservice.fi/Research%20Projects/biobanking)
 * [Borealis Biobank](https://www.oulu.fi/mrc/node/20008)
@@ -14,5 +14,5 @@ The following biobanks and cohorts are part of the R2 release:
 * [Health 2000/2011](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/health-2000-and-2011-surveys)
 * [Helsinki Biobank](https://www.hus.fi/en/about-hus/helsinkibiobank/Pages/default.aspx)
 * [Migraine Family Study](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/migraine-study)
-* THL Diabetes
+* [THL Diabetes](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/thl-diabetes-studies-1986-2013)
 
