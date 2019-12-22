@@ -2,17 +2,17 @@
 
 The following biobanks and cohorts are part of the R2 release:
 
+* SUPER
+* [Auria Biobank](https://auria.fi/en/)
+* [Blood Service Biobank](https://www.bloodservice.fi/Research%20Projects/biobanking)
+* [Borealis Biobank](https://www.oulu.fi/mrc/node/20008)
+* [Botnia study](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/the-botnia-study)
+* [Eastern Finland Biobank](https://ita-suomenbiopankki.fi/en/)
+* [FinHealth](https://thl.fi/en/web/thlfi-en/research-and-expertwork/population-studies/national-finhealth-study)
 * [FINRISK](https://thl.fi/en/web/thlfi-en/research-and-expertwork/population-studies/the-national-finrisk-study)
-* [Botnia](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/the-botnia-study)
-* H2000/H2011
-* [GeneRisk](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/generisk-study)
-* [Psychiatric Family Collections](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/thl-psychiatric-family-collections-1994-2008)
-* [Auria](https://auria.fi/en/)
-* [Borealis](https://www.oulu.fi/mrc/node/20008)
-* [DiMe](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/thl-diabetes-studies-1986-2013) \(Childhood Diabetes in _Finland_\)
-* FT17
-* [HBP](https://academic.oup.com/ije/article/45/4/1074/2951626) \(Helsinki Businessmen Study\)
-* [Iddmgen](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/thl-diabetes-studies-1986-2013)
-* VPU
-* YA cohorts
+* [GENERISK](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/generisk-study)
+* [Health 2000/2011](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/health-2000-and-2011-surveys)
+* [Helsinki Biobank](https://www.hus.fi/en/about-hus/helsinkibiobank/Pages/default.aspx)
+* [Migraine Family Study](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/migraine-study)
+* THL Diabetes
 
