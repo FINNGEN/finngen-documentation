@@ -8,8 +8,6 @@ In summary, we removed xx samples who were either of non-Finnish ancestry or twi
 
 Our data set initially consists of 102,739 samples, of which we keep 100,355 after removing duplicates. 
 
-Because SAIGE accounts for sample relatedness, we kept all related individuals for the analysis, except identical twins. 
-
 After this step we need to exclude samples that do not have Finnish ancestry. After filtering for high quality HQ variants \(36, 073 variants\) we merge the data set with the thousand genomes data. At this point we perform a PCA on the merged data set and use a bayesian approach to determine outliers. This process allows us to identify samples from outside the Central/Northern European region \(1023\), however Western European and GB samples are still present, but are not enough to drive a signal in the PCA. Thus we use a different approach; we run a PCA on the 99333 samples left and we project the 98 FIN and 89 EUR samples from the thousand genomes project who survived round one onto the same space. Then, for each Finngen sample, we calculate its mahalanobis distance to the FIN and EUR centroid. The distance is mapped to a probability with a chi squared distribution with 3 degrees of freedom. Then, we define as being Finns, those sample for whom the relative probability of being Finnish vs European is &gt; 95%. This leaves us with 98644 samples.
 
 The PCA for population structure has been run in the following way: Variant filtering and LD pruning The following filters were applied:
@@ -41,6 +39,8 @@ Then all pairs of FinnGen samples up to second degree were returned. The figure 
 
   Then, the subset of outliers who also belong to the set of duplicates/twins was identified.
 
+## 
+
 ## Final PCA
 
 To compute the final step the FinnGen samples were ultimately separated in three groups:
@@ -61,4 +61,24 @@ To compute the final step the FinnGen samples were ultimately separated in three
 ## Sample filtering based on phenotype data
 
 Of the 178,779 non-duplicate population inlier samples from PCA, we excluded 1,880 samples from analysis because of missing minimum phenotype data or a mismatch between imputed sex and sex in registry data. ​A total of 176,899 samples was used for core analysis.
+
+## Further info 
+
+### Bayesian outlier detection
+
+Code for the method can be found here:​[ github.com/FINNGEN/pca\_outlier\_detection](https://github.com/FINNGEN/pca_outlier_detection). 
+
+Official documentation from the original developers of the algorithm can be found here: [http://www.well.ox.ac.uk/~spencer/Aberrant/aberrant-manual.pdf](http://www.well.ox.ac.uk/~spencer/Aberrant/aberrant-manual.pdf). 
+
+### Centroid based outlier detection
+
+![Principal components 1-3, with FinnGen&apos;s Finnish individuals shown in red, FinnGen outliers in blue, and thousand genomes Finnish samples labelled in purple, Western European in green. ](../../.gitbook/assets/screenshot-2019-12-23-at-12.23.44.png)
+
+
+
+This figure shows how the centroid based outlier detection works by plotting the distribution of the first 3 components of the PCA. Purple and green dots represent samples of Finnish and Western European respectively from the thousand genome data set. The blue dots are Finngen samples who have been found to be more likely to belong to the EUR group rather than to the Finnish one. Dots in red on the other hand are labelled as belonging to the Finnish centroid.
+
+We can see that the Finngen samples labelled as EUR are extremely close to the EUR centroid in the first two components.
+
+
 
