@@ -4,7 +4,7 @@ This is a description of the quality control procedures applied before running t
 
 In summary, we removed 4,095 samples who were either of non-Finnish ancestry or twins/duplicates. Finnish ancestry was assessed with a combination of PCA and a Bayesian method for outlier detection. ~~Related or duplicate samples were detected using~~ [~~kinship analysi~~](quality-checks.md)~~s.~~
 
-## Sample QC and PCA
+## Sample QC
 
 Our data set initially consists of 102,739 samples, of which we kept 100,355 after removing duplicates. Next, we proceeded to exclude samples of non-Finnish ancestry using a PCA approach. 
 
