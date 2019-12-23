@@ -4,7 +4,7 @@ We used the [SAIGE](https://github.com/weizhouUMICH/SAIGE/) software for running
 
 [SAIGE](https://github.com/weizhouUMICH/SAIGE/) is a mixed model logistic regression R/C++ package. We used code of `version 0.29.4`. 
 
-We analyzed: 
+We analysed:
 
 * ​1,488​​ endpoints
 * 100,355 analyzed samples \(102,739 before QC\)
