@@ -12,8 +12,6 @@ Our data set initially consists of 102,739 samples, of which we kept 100,355 aft
 
 After filtering for high quality HQ variants \(36,073 variants\) we merged the data set with the [thousand genomes data](https://www.internationalgenome.org/) \(EUR individuals only\). At this point we performed a PCA on the merged data set and used a Bayesian approach to determine outliers \(see below\). This process allowed us to identify samples from outside the Central/Northern European region \(1,023 samples\). Western European and British samples are still present, but are not enough to drive a signal in the PCA. Thus we used a different approach; we ran a PCA on the 99,333 samples left and we projected the 98 Finnish \(FIN\) and 89 non-Finnish European \(EUR\) samples from the thousand genomes project who survived round one onto the same space. Then, for each Finngen sample, we calculate its Mahalanobis distance to the FIN and EUR centroid. The distance is mapped to a probability with a $$\chi^2 $$distribution with 3 degrees of freedom. Then, we define as being Finns, those sample for whom the relative probability of being Finnish vs European is &gt; 95%. This left us with 98,644 samples.
 
-
-
 ## Further info 
 
 ### Bayesian outlier detection
