@@ -28,39 +28,7 @@ While the method automatically detected as being outliers the 1kgp samples with 
 
 FIN 1kgp samples are in purple, while EUR 1kgp sample are in Blue. Samples in green are FinnGen samples who are flagged as being non Finnish, while red ones are considered Finnish.
 
-## Kinship
 
-Then all pairs of FinnGen samples up to second degree were returned. The figure below shows the distribution of kinship values. \Then, the previously defined “non Finnish” samples were excluded and 2 algorithms were used to return a unique subset of unrelated samples:
-
-* one called ​greedy ​would continuously remove the highest degree node from the network of relations, until no more links are left in the network
-* one called ​native ​, based on a native implementation of python’s ​networkx ​package, performed on each subgraph of the network.
-
-  The largest independent set of either algorithm would be used to keep those samples, while flagging the others as “outliers” for the final PCA.
-
-  Then, the subset of outliers who also belong to the set of duplicates/twins was identified.
-
-## 
-
-## Final PCA
-
-To compute the final step the FinnGen samples were ultimately separated in three groups:
-
-* 131,863 ​inliers​ . These are unrelated samples with Finnish ancestry
-* 46,916 ​outliers ​who are of non duplicate samples with Finnish ancestries, but who are
-
-  also related to the inliers
-
-* 4,915 ​rejected ​samples, who are either of non Finnish ancestry or are twins/duplicates
-
-  with relations to other samples
-
-  Finally, the PCA for the inliers was calculated, and then outliers were projected on the same
-
-  same, allowing to calculate covariates for a total of ​178,779​ samples.
-
-## Sample filtering based on phenotype data
-
-Of the 178,779 non-duplicate population inlier samples from PCA, we excluded 1,880 samples from analysis because of missing minimum phenotype data or a mismatch between imputed sex and sex in registry data. ​A total of 176,899 samples was used for core analysis.
 
 ## Further info 
 
@@ -68,17 +36,15 @@ Of the 178,779 non-duplicate population inlier samples from PCA, we excluded 1,8
 
 Code for the method can be found here:​[ github.com/FINNGEN/pca\_outlier\_detection](https://github.com/FINNGEN/pca_outlier_detection). 
 
-Official documentation from the original developers of the algorithm can be found here: [http://www.well.ox.ac.uk/~spencer/Aberrant/aberrant-manual.pdf](http://www.well.ox.ac.uk/~spencer/Aberrant/aberrant-manual.pdf). 
+Documentation from the original developers of the algorithm can be found here: [http://www.well.ox.ac.uk/~spencer/Aberrant/aberrant-manual.pdf](http://www.well.ox.ac.uk/~spencer/Aberrant/aberrant-manual.pdf). 
 
 ### Centroid based outlier detection
 
+The figure below shows how the centroid based outlier detection works by plotting the distribution of the first 3 components of the PCA. We can see that the FinnGen samples labelled as Western European \(in blue\) are extremely close to the Western European centroid in the first two components.
+
 ![Principal components 1-3, with FinnGen&apos;s Finnish individuals shown in red, FinnGen outliers in blue, and thousand genomes Finnish samples labelled in purple, Western European in green. ](../../.gitbook/assets/screenshot-2019-12-23-at-12.23.44.png)
 
-
-
-This figure shows how the centroid based outlier detection works by plotting the distribution of the first 3 components of the PCA. Purple and green dots represent samples of Finnish and Western European respectively from the thousand genome data set. The blue dots are Finngen samples who have been found to be more likely to belong to the EUR group rather than to the Finnish one. Dots in red on the other hand are labelled as belonging to the Finnish centroid.
-
-We can see that the Finngen samples labelled as EUR are extremely close to the EUR centroid in the first two components.
+Purple and green dots represent samples of Finnish and Western European \(EUR\) respectively from the thousand genome data set. The blue dots are FinnGen samples who have been found to be more likely to belong to the EUR group rather than to the Finnish one. Dots in red on the other hand are labelled as belonging to the Finnish centroid.
 
 
 
