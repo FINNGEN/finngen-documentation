@@ -8,6 +8,8 @@ In summary, we removed xx samples who were either of non-Finnish ancestry or twi
 
 Our data set initially consists of 102,739 samples, of which we keep 100,355 after removing duplicates. 
 
+Because SAIGE accounts for sample relatedness, we kept all related individuals for the analysis, except identical twins. 
+
 After this step we need to exclude samples that do not have Finnish ancestry. After filtering for high quality HQ variants \(36, 073 variants\) we merge the data set with the thousand genomes data. At this point we perform a PCA on the merged data set and use a bayesian approach to determine outliers. This process allows us to identify samples from outside the Central/Northern European region \(1023\), however Western European and GB samples are still present, but are not enough to drive a signal in the PCA. Thus we use a different approach; we run a PCA on the 99333 samples left and we project the 98 FIN and 89 EUR samples from the thousand genomes project who survived round one onto the same space. Then, for each Finngen sample, we calculate its mahalanobis distance to the FIN and EUR centroid. The distance is mapped to a probability with a chi squared distribution with 3 degrees of freedom. Then, we define as being Finns, those sample for whom the relative probability of being Finnish vs European is &gt; 95%. This leaves us with 98644 samples.
 
 The PCA for population structure has been run in the following way: Variant filtering and LD pruning The following filters were applied:
