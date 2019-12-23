@@ -1,13 +1,16 @@
 # GWAS
 
-We used the [SAIGE](https://github.com/weizhouUMICH/SAIGE/) software for running the R2 GWAS for
+We used the [SAIGE](https://github.com/weizhouUMICH/SAIGE/) software for running the R2 GWAS. 
 
-* 2,444 endpoints
-* 176,899 analyzed samples
-* 16,962,023 variants
-* covariates: sex, age, 10 PCs, genotyping batch
+[SAIGE](https://github.com/weizhouUMICH/SAIGE/) is a mixed model logistic regression R/C++ package. We used code of `version 0.29.4`. 
 
-SAIGE is a mixed model logistic regression R/C++ package. We used code of version 0.35.8.8: [https://github.com/weizhouUMICH/SAIGE/releases/tag/0.35.8.8](https://github.com/weizhouUMICH/SAIGE/releases/tag/0.35.8.8)
+We analyzed: 
 
-Github repository: [https://github.com/FINNGEN/saige-pipelines](https://github.com/FINNGEN/saige-pipelines)
+* ​1,488​​ endpoints
+* 100,355 analyzed samples \(102,739 before QC\)
+* ?? variants
+
+We included the following covariates in the model: sex, age, 10 PCs, genotyping batch. 
+
+Github repository for pipeline: [https://github.com/FINNGEN/saige-pipelines](https://github.com/FINNGEN/saige-pipelines). 
 

@@ -12,5 +12,7 @@ For the null model computation for each endpoint, we used age, sex, 10 PCs and g
 
 We ran association tests against each of the 2,444 endpoints with SAIGE for each variant with a minimum allele count of 5 from the imputation pipeline \(SAIGE option minMAC = 5\). We filtered the results to include variants with an imputation INFO &gt; 0.6.
 
+Because SAIGE accounts for sample relatedness, we kept all related individuals except identical twins in for the analysis.- Fixed association test computation with missing genotypes and added the numbers of cases and controls to the output
+
 ## 
 
