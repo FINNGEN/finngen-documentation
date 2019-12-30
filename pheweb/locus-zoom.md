@@ -6,8 +6,7 @@ Contains 4 panels:
 * Annotation with GWAS catalog variants + UK Biobank hits
 * Clinvar
 * ExAC gene panels
-
-[http://r2.finngen.fi/region/J10\_ASTHMA\_EXMORE/5:132261855-132661855](http://r2.finngen.fi/region/J10_ASTHMA_EXMORE/5:132261855-132661855)
+* URL locus zoom: `http://r2.finngen.fi/region/endpoint/chr:start-en`[, e.g. http://r2.finngen.fi/region/J10\_ASTHMA\_EXMORE/5:132261855-132661855](http://r2.finngen.fi/region/J10_ASTHMA_EXMORE/5:132261855-132661855)
 
 Images can be downloaded
 

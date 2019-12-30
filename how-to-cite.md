@@ -7,7 +7,7 @@ You can use the following text to **acknowledge** the FinnGen study when using t
 If you want to **cite** this website, use the following citation:  
 
 ```text
-@online{FinnGen,
+@online{finngen,
   author = {FinnGen},
   title = {{FinnGen} Documentation of R2 release},
   year = 2020,

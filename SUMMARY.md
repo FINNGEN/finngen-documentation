@@ -7,9 +7,9 @@
 
 ## Pheweb Browser <a id="pheweb"></a>
 
-* [Get started](pheweb/introduction.md)
+* [Getting started](pheweb/introduction.md)
 * [Phenotype list](pheweb/phenotype-list.md)
-* [Phenotype view](pheweb/manhattanplot.md)
+* [GWAS overview](pheweb/manhattanplot.md)
 * [Locus zoom](pheweb/locus-zoom.md)
 * [Variant view](pheweb/variant-view.md)
 * [Gene view](pheweb/gene-view.md)

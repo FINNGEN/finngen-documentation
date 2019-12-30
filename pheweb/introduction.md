@@ -1,14 +1,14 @@
-# Get started
+# Getting started
 
-[http://r2.finngen.fi/](http://r2.finngen.fi/) will provide you three options
+The web browser [r2.finngen.fi](http://r2.finngen.fi/) contains all FinnGen GWAS results from release 2 and provides you with three options:
 
-* Search for a particular [variant](variant-view.md), [phenotype](manhattanplot.md) or [gene](gene-view.md). 
-* Explore the LoF burden. 
-* Check all the phenotypes / endpoints.
+1. Search for the GWAS result of a [variant](variant-view.md), [phenotype](manhattanplot.md) or [gene](gene-view.md). 
+2. Explore the loss-of-function burden \(LoF\) for gene-phenotypes combinations.
+3. Find a particular phenotype/endpoint.
 
-{% embed url="http://r2.finngen.fi/" %}
+![1: Search for the GWAS result of a variant, phenotype or gene.  2: Explore the loss-of-function burden \(LoF\) for gene-phenotypes combinations. 3: Find a particular phenotype/endpoint.](../.gitbook/assets/screenshot_start_anno.png)
 
-![](../.gitbook/assets/screenshot-2019-12-06-at-14.35.29.png)
+
 
 
 
