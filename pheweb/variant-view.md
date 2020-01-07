@@ -2,12 +2,12 @@
 
 
 
-The variant view has the following URL: `http://r2.finngen.fi/variant/CHR-POS-ALT-REF, e.g.` [`http://results.finngen.fi/variant/13-80757865-T-TA`](http://results.finngen.fi/variant/13-80757865-T-TA)\`\`
+The variant view has the following url:[`http://r2.finngen.fi/variant/<chr>-<pos>-<ref`](http://r2.finngen.fi/variant/6-25822689-C-T)`>-<alt>`
 
-* `CHR`: chromosome on hg38
-* `POS`: position on hg38
-* `REF`: reference allele
-* `ALT`: alternative allele
+* `chr`: chromosome on hg38
+* `pos`: position on hg38
+* `ref`: reference allele
+* `alt`: alternative allele
 
 ![Variant view: displaying on the x-axis all phenotypes and phenotype categories and on the y-axis the p-values.](../.gitbook/assets/screenshot-2019-12-06-at-14.33.29.png)
 

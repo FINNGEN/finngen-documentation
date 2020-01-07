@@ -2,7 +2,7 @@
 
 Clicking on any phenotype will show you an overview of the [GWAS](../methods/phewas/) results: 
 
-* Detailed info on phenotype definition
+* Detailed info about phenotype definition
 * Manhattan plot
 * List of top hits
 * Q-Q-plot
