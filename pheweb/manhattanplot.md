@@ -15,6 +15,6 @@ Clicking on any phenotype will show you an overview of the [GWAS](../methods/phe
 
 * Clicking on a gene brings you to [LoF burden](../methods/lof-burden.md).
 * FIN enrichment: ??
-* P-value and OR from [association test](../methods/phewas/logistic-regression.md#association-tests). 
+* P-value and OR from [association test](../methods/phewas/logistic-regression.md#association-tests) \(alternative allele = effect allele\)
 * UKBB: P-value in UKBB \(if available\)
 
