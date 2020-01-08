@@ -26,6 +26,7 @@
 * [GWAS](methods/phewas/README.md)
   * [Quality control](methods/phewas/quality-checks.md)
   * [Association tests](methods/phewas/logistic-regression.md)
+  * [Workflows](methods/phewas/workflows.md)
 * [Loss of function burden](methods/lof-burden.md)
 * [Contact](methods/contact.md)
 * [Github](https://github.com/FINNGEN/)
