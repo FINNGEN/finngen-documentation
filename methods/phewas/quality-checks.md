@@ -2,7 +2,7 @@
 
 This is a description of the quality control procedures applied before running the GWAS. 
 
-In summary, we removed 4,095 samples who were either of non-Finnish ancestry or twins/duplicates. Finnish ancestry was assessed with a combination of PCA and a Bayesian method for outlier detection. Related or duplicate samples were detected using kinship analysis \(??\).
+In summary, we removed 4,095 samples who were either of non-Finnish ancestry or twins/duplicates. Finnish ancestry was assessed with a combination of PCA and a Bayesian method for outlier detection. 
 
 ## Sample QC
 
