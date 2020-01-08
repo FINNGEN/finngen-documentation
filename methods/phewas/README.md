@@ -6,8 +6,8 @@ We used the [SAIGE](https://github.com/weizhouUMICH/SAIGE/) software for running
 
 We analyzed:
 
-* ​1,488​​ endpoints
-* 96,499 analyzed samples
+* ​1,122 endpoints
+* 96,499 samples
 * ?? variants
 
 We included the following covariates in the model: sex, age, 10 PCs, genotyping batch. 

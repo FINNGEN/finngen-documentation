@@ -12,7 +12,7 @@
 * [GWAS overview](pheweb/manhattanplot.md)
 * [Locus zoom](pheweb/locus-zoom.md)
 * [Variant view](pheweb/variant-view.md)
-* [Gene view](pheweb/gene-view.md)
+* [Gene view / LoF burden](pheweb/gene-view-lof-burden.md)
 
 ## Methods
 
