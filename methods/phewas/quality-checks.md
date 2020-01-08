@@ -6,7 +6,7 @@ In summary, we removed 4,095 samples who were either of non-Finnish ancestry or 
 
 ## Sample QC
 
-Our data set initially consists of 102,739 samples, of which we kept 100,355 after removing duplicates \(using [KING](http://people.virginia.edu/~wc9c/KING/manual.html)\). Next, we proceeded to exclude samples of non-Finnish ancestry using a PCA approach. 
+Our data set initially consists of 102,739 samples, of which we kept 100,355 after removing duplicates. Next, we proceeded to exclude samples of non-Finnish ancestry using a PCA approach. 
 
 ### PCA
 
