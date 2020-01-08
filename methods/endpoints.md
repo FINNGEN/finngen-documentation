@@ -13,5 +13,5 @@ Endpoints definitions can be found in the excel file:
 
 Endpoints with N&lt;150 are not released by THL.
 
-We included ??​ endpoints in the analysis. Endpoints with less than 100 cases among the ?? samples were excluded. 
+We included 1122 endpoints in the analysis. Endpoints with less than 100 cases among the \(??102,739\) samples were excluded. 
 
