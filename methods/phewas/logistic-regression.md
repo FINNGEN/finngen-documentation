@@ -15,7 +15,9 @@ For calculating the genetic relationship matrix, we used 49,811 independent, com
 
 ## Association tests
 
-We ran association tests against each of the 1,488 endpoints with [SAIGE](https://github.com/weizhouUMICH/SAIGE/) for each variant with a minimum allele count of 10 from the imputation pipeline \(SAIGE option`minMAC = 10`\). The alternative allele is always the effect allele. 
+We ran association tests against each of the 1,122 endpoints with [SAIGE](https://github.com/weizhouUMICH/SAIGE/) for each variant with a minimum allele count of 10 from the imputation pipeline \(SAIGE option`minMAC = 10`\). The alternative allele is always the effect allele. 
 
-## 
+## Software
+
+The code we used is available in [github.com/FINNGEN/SAIGE-IT/tree/master/SAIGE](https://github.com/FINNGEN/SAIGE-IT/tree/master/SAIGE). The original SAIGE codebase is available in [https://github.com/weizhouUMICH/SAIGE/](https://github.com/weizhouUMICH/SAIGE/).
 

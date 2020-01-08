@@ -12,5 +12,3 @@ We analyzed:
 
 We included the following covariates in the model: sex, age, 10 PCs, genotyping batch. 
 
-Github repository for pipeline: [https://github.com/FINNGEN/saige-pipelines](https://github.com/FINNGEN/saige-pipelines). 
-
