@@ -10,6 +10,10 @@ You can use the following text:
 
 > _We want to acknowledge the participants and investigators of FinnGen study_.
 
+## Manifest
+
+The Manifest file with the link to all the downloadable summary statistics is available at: [https://storage.googleapis.com/finngen-public-data-r2/summary\_stats/r2\_manifest.tsv](https://storage.googleapis.com/finngen-public-data-r2/summary_stats/r2_manifest.tsv)
+
 ## Description
 
 GWAS summary stats \(tab-delimited, bgzipped, genome build 38, filtered to INFO &gt; 0.6, [tabix](https://github.com/samtools/htslib) index files included\) are named as `{endpoint}.gz`. For example, endpoint `I9_CHD` has `I9_CHD.gz`  and `I9_CHD.gz.tbi`.
@@ -32,8 +36,4 @@ The `{endpoint}.gz` have the following structure:
 | `maf` | minor allele frequency |
 | `maf_cases` | minor allele frequency among cases |
 | `maf_controls` | minor allele frequency among controls |
-
-### Manifest
-
-The Manifest file with the link to all the downloadable summary statistics is available at: [https://storage.googleapis.com/finngen-public-data-r2/summary\_stats/r2\_manifest.tsv](https://storage.googleapis.com/finngen-public-data-r2/summary_stats/r2_manifest.tsv)
 
