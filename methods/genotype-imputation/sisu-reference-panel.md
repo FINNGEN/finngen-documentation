@@ -11,3 +11,5 @@
 
 High-coverage \(25-30x\) WGS data used to develop the SISu v3 reference panel were generated at the Broad Institute of MIT and Harvard and at the McDonnell Genome Institute at Washington University; and jointly processed at the Broad Institute.
 
+More information about the reference panel here: ??
+
