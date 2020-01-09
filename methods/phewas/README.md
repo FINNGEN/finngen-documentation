@@ -8,7 +8,7 @@ We analyzed:
 
 * ​1,122 endpoints
 * 96,499 samples
-*  variants
+* 16,152,119 variants
 
 We included the following covariates in the model: sex, age, 10 PCs, genotyping batch. 
 
