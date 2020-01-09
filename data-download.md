@@ -33,5 +33,7 @@ The `{endpoint}.gz` have the following structure:
 | `maf_cases` | minor allele frequency among cases |
 | `maf_controls` | minor allele frequency among controls |
 
+### Manifest
 
+The Manifest file with the link to all the downloadable summary statistics is available at: [https://storage.googleapis.com/finngen-public-data-r2/summary\_stats/r2\_manifest.tsv](https://storage.googleapis.com/finngen-public-data-r2/summary_stats/r2_manifest.tsv)
 
