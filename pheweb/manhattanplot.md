@@ -9,7 +9,7 @@ Clicking on any phenotype will show you an overview of the [GWAS](../methods/phe
 
 ### Manhattan plot
 
-* Clicking on any point will lead you to the[ locus zoom view](locus-zoom.md). 
+Clicking on any point will lead you to the[ locus zoom view](locus-zoom.md). 
 
 ### Top hits
 
