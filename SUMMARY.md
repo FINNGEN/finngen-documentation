@@ -31,5 +31,4 @@
 * [Contact](methods/contact.md)
 * [Github](https://github.com/FINNGEN/)
 * [FinnGen](https://www.finngen.fi/en)
-* [FAQ](methods/faq.md)
 
