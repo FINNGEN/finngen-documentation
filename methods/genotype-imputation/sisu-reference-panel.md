@@ -1,6 +1,6 @@
 # SISu reference panel
 
-[SISu](http://sisuproject.fi/) v3 consists of 3,775 high coverage \(30x\) WGS Finnish individuals from six cohort:
+[SISu](http://sisuproject.fi/) v3 consists of 3,775 high coverage \(30x\) WGS Finnish individuals from six cohorts:
 
 1. METSIM \(PIs Markku Laakso and Mike Boehnke\) 
 2. FINRISK \(PI Pekka Jousilahti\)

@@ -1,8 +1,8 @@
 # Genotypes
 
-FinnGen individuals were [genotyped](./) with Illumina and Affymetrix arrays \(Illumina Inc., San Diego, and Thermo Fisher Scientific, Santa Clara, CA, USA\). 
+FinnGen individuals were [genotyped](./) with Illumina and Affymetrix chip arrays \(Illumina Inc., San Diego, and Thermo Fisher Scientific, Santa Clara, CA, USA\). 
 
-Genotypes were [imputed](genotype-imputation.md) using the population-specific [SISu v3 imputation reference panel](./) of 3,775 whole genomes with Beagle 4. 
+Chip genotype data were [imputed](genotype-imputation.md) using the population-specific [SISu v3 imputation reference panel](./) of 3,775 whole genomes. 
 
 Post-imputation QC involved excluding variants with imputation INFO &lt; 0.7.
 
