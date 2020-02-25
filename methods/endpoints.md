@@ -3,7 +3,7 @@
 The disease endpoints were defined using nationwide registries:
 
 * [Drug purchase and  Drug Reimbursement](https://www.kela.fi/web/en/research-data-requests)
-* [Population Register](https://vrk.fi/en/population-information-system)
+* [Digital and Population Data Services Agency](https://dvv.fi/en/population-information-system)
 * [Statistics Finland](https://www.stat.fi/til/ksyyt/index_en.html)
 * [Register of primary health care visits: AVOHILMO](https://thl.fi/en/web/thlfi-en/statistics/information-on-statistics/register-descriptions/register-of-primary-health-care-visits)
 * [Care Register for Health Care: HILMO](https://thl.fi/en/web/thlfi-en/statistics/information-on-statistics/register-descriptions/care-register-for-health-care)
