@@ -1,6 +1,6 @@
 # Participating biobanks/cohorts
 
-The following biobanks and cohorts are part of the R2 release:
+The following biobanks and cohorts are part of the R3 release:
 
 * [SUPER](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/super-study)
 * [Auria Biobank](https://auria.fi/en/)
