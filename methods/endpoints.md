@@ -17,7 +17,7 @@ These registries spanning decades were electronically linked to the cohort basel
 
 A full list of FinnGen endpoints is [available online](https://www.finngen.fi/en/researchers/clinical-endpoints) for release 3.
 
-## Restrictions
+## Excluded endpoints
 
 The endpoints with fewer than 100 cases, near-duplicate endpoints, and developmental “helper” endpoints were excluded from the final PheWas \(column “OMIT”\).
 
