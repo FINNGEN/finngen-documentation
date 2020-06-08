@@ -25,5 +25,3 @@
 * [Github](https://github.com/FINNGEN/)
 * [FinnGen](https://www.finngen.fi/en)
 
-## Web Browser
-

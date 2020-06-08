@@ -4,5 +4,3 @@ To identify potential causal variants in GWAS signals, we fine-mapped each genom
 
 We used a 3-megabase window \(+- 1.5M\) around each lead variant, merged overlapping regions into one, and used these regions for fine-mapping.
 
-
-

@@ -29,19 +29,19 @@ The `{endpoint}.gz` have the following structure:
 
 ## Fine-mapping results
 
-Two fine-mapping methods were used: 
+Two fine-mapping methods were used:
 
 * [SuSiE](https://stephenslab.github.io/susie-paper/index.html)
 * [FINEMAP](http://www.christianbenner.com)
 
-Fine-mapping results are tab-delimited and bgzipped. 
+Fine-mapping results are tab-delimited and bgzipped.
 
-SuSiE results have the following filename pattern: 
+SuSiE results have the following filename pattern:
 
 * `{endpoint}.SUSIE.cred.bgz` 
 * `{endpoint}.SUSIE.snp.bgz`
 
-FINEMAP results have the following filename pattern: 
+FINEMAP results have the following filename pattern:
 
 * `{endpoint}.FINEMAP.region.bgz`
 * `{endpoint}.FINEMAP.snp.bgz`
@@ -65,7 +65,7 @@ SuSiE output files `{endpoint}.SUSIE.snp.bgz` have the following structure:
 | **beta** | effect size GWAS |
 | **se** | standard error GWAS |
 | **p** | p-value GWAS |
-| **mean** | posterior expectation of true effect size  |
+| **mean** | posterior expectation of true effect size |
 | **sd** | posterior standard deviation of true effect size |
 | **prob** | posterior probability of association |
 | **cs** | identifier of 95% credible set \(-1 = variant is not part of credible set\) |
@@ -74,11 +74,7 @@ SuSiE output files `{endpoint}.SUSIE.snp.bgz` have the following structure:
 
 Linkage disequilibrium \(LD\) was estimated from [SISU v3](methods/genotype-imputation/sisu-reference-panel.md) for each chromosome. Use the tool [LDstore \(v1.1\)](http://www.christianbenner.com/ldstore_v1.1_x86_64.tgz) for further usage of the bcor files.
 
-`ldstore --bcor FG_LD_chr1.bcor --incl-range 20000000-50000000 --table output_file_name.table` 
+`ldstore --bcor FG_LD_chr1.bcor --incl-range 20000000-50000000 --table output_file_name.table`
 
 To learn more about the methods used, see section [LD estimation](methods/genotype-imputation/ld-estimation.md).
-
-
-
-
 

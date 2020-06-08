@@ -4,9 +4,9 @@ To download FinnGen summary statistics you will need to fill the online form at 
 
 Release 3 contains
 
-* [GWAS summary association statistics](data-description.md#summary-association-statistics)
-* [Fine-mapping results](data-description.md#fine-mapping-results)
-* [LD estimation ](data-description.md#ld-estimation)from [SISu v3 ](methods/genotype-imputation/sisu-reference-panel.md)
+* [GWAS summary association statistics](https://github.com/FINNGEN/finngen-documentation/tree/57935e677ece45261aebd97c1e20ddccac22081b/data-description.md#summary-association-statistics)
+* [Fine-mapping results](https://github.com/FINNGEN/finngen-documentation/tree/57935e677ece45261aebd97c1e20ddccac22081b/data-description.md#fine-mapping-results)
+* [LD estimation ](https://github.com/FINNGEN/finngen-documentation/tree/57935e677ece45261aebd97c1e20ddccac22081b/data-description.md#ld-estimation)from [SISu v3 ](methods/genotype-imputation/sisu-reference-panel.md)
 
 ## Using FinnGen data for publications
 
@@ -18,9 +18,7 @@ You can use the following text:
 
 ## Manifest
 
-The Manifest file with the link to all the downloadable data is available at: **TBD**
+The Manifest file with the link to all the downloadable data is available at:
 
-{% embed url="https://storage.googleapis.com/finngen-public-data-r3/summary\_stats/r3\_manifest.tsv" %}
-
- 
+{% embed url="https://storage.googleapis.com/finngen-public-data-r3/summary\_stats/r3\_manifest.tsv" caption="" %}
 
