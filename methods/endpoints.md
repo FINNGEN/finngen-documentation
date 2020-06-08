@@ -1,5 +1,7 @@
 # Endpoints
 
+## Registries
+
 The disease endpoints were defined using nationwide registries:
 
 * [Drug purchase and  Drug Reimbursement](https://www.kela.fi/web/en/research-data-requests)
@@ -15,9 +17,13 @@ These registries spanning decades were electronically linked to the cohort basel
 
 A full list of FinnGen endpoints is [available online](https://www.finngen.fi/en/researchers/clinical-endpoints) for release 3.
 
+## Restrictions
+
 The endpoints with fewer than 100 cases, near-duplicate endpoints, and developmental “helper” endpoints were excluded from the final PheWas \(column “OMIT”\).
 
 Endpoints with N&lt;150 are not released by [THL](https://thl.fi/en/web/thlfi-en) \(Finnish Institute for Health and Welfare\).
+
+## Risteys
 
 [risteys.finngen.fi](https://risteys.finngen.fi/) \(_Risteys = intersection_ in Finnish\) allows browsing of the FinnGen data at the phenotype level, including endpoint definitions, statistics about number of individuals, gender distribution, and longitudinal relationships.
 
