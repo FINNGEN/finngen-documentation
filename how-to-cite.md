@@ -11,7 +11,7 @@ If you want to **cite** this website, use the following citation:
   author = {FinnGen},
   title = {{FinnGen} Documentation of R3 release},
   year = 2020,
-  url = {https://finngen.gitbook.io/finngen-documentation-private/-LvQ4yR2YFUM5eFTjieO/},
+  url = {https://finngen.gitbook.io/documentation/},
   urldate = {YYYY-MM-DD}
 }
 ```
