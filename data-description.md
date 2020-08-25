@@ -23,9 +23,9 @@ The `{endpoint}.gz` have the following structure:
 | **`pval`** | p-value from [SAIGE](https://github.com/weizhouUMICH/SAIGE) |
 | **`beta`** | effect size estimated with [SAIGE](https://github.com/weizhouUMICH/SAIGE) for the alternative allele |
 | **`sebeta`** | standard deviation of effect size estimated with [SAIGE](https://github.com/weizhouUMICH/SAIGE) |
-| **`maf`** | minor allele frequency |
-| **`maf_cases`** | minor allele frequency among cases |
-| **`maf_controls`** | minor allele frequency among controls |
+| **`maf`** | alternative \(effect\) allele frequency |
+| **`maf_cases`** | alternative \(effect\) allele frequency among cases |
+| **`maf_controls`** | alternative \(effect\) allele frequency among controls |
 
 ## Fine-mapping results
 
