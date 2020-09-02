@@ -27,6 +27,12 @@ The `{endpoint}.gz` have the following structure:
 | **`maf_cases`** | alternative \(effect\) allele frequency among cases |
 | **`maf_controls`** | alternative \(effect\) allele frequency among controls |
 
+## Variant annotation file
+
+The variant annotation file contains information per variant about batch specific MAF and INFO score, as well as gene and function of the variant. 
+
+[`gs://finngen-production-library-green/R3/annotations/R3_annotated_variants_v1.gz`](gs://finngen-production-library-green/R3/annotations/R3_annotated_variants_v1.gz)
+
 ## Fine-mapping results
 
 Two fine-mapping methods were used:
