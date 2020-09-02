@@ -6,7 +6,7 @@ description: File naming pattern and file structure
 
 ## Summary association statistics
 
-GWAS summary statistics \(tab-delimited, bgzipped, genome build 38, filtered to INFO &gt; 0.6, [tabix](https://github.com/samtools/htslib) index files included\) are named as `{endpoint}.gz`. For example, endpoint `I9_CHD` has `I9_CHD.gz` and `I9_CHD.gz.tbi`.
+GWAS summary statistics \(tab-delimited, bgzipped, genome build 38, [tabix](https://github.com/samtools/htslib) index files included\) are named as `{endpoint}.gz`. For example, endpoint `I9_CHD` has `I9_CHD.gz` and `I9_CHD.gz.tbi`.
 
 To learn more about the methods used, see section [GWAS](methods/phewas/).
 
