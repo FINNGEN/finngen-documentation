@@ -2,7 +2,7 @@
 
 Timeline for releases:
 
-| Release | Date release to partners | Date release to public | Total sample size |
+| Release | Date release to partners | Date release to public | Total sample size \[1\] |
 | :--- | :--- | :--- | :--- |
 | R2 | Q4 2018 \(Nov\) | Q1 2020 | ​96,499​​ |
 | **R3** | Q2 2019 \(May\) | **Q2 2020** | **135,638** |
@@ -16,4 +16,6 @@ Timeline for releases:
 | R11 | Q1 2023 | ~Q1 2024 | ~445,000 |
 | R12 | Q3 2023 | ~Q3 2024 | ~480,000 |
 | R13 | Q1 2024 | ~Q1 2025 | ~500,000 |
+
+\[1\] samples used for PheWAS.
 
