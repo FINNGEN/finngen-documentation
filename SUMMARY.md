@@ -20,7 +20,6 @@
   * [Sample QC and PCA](methods/phewas/quality-checks.md)
   * [Association tests](methods/phewas/logistic-regression.md)
 * [Fine-mapping](methods/finemapping.md)
-* [Loss of function burden](methods/lof-burden.md)
 * [Contact](methods/contact.md)
 * [Github](https://github.com/FINNGEN/)
 * [FinnGen](https://www.finngen.fi/en)

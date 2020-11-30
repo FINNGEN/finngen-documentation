@@ -6,9 +6,5 @@ The web browser [r2.finngen.fi](http://r2.finngen.fi/) contains all FinnGen GWAS
 2. Explore the loss-of-function burden \(LoF\) for gene-phenotypes combinations.
 3. Find a particular phenotype/endpoint.
 
-![1: Search for the GWAS result of a variant, phenotype or gene.  2: Explore the loss-of-function burden \(LoF\) for gene-phenotypes combinations. 3: Find a particular phenotype/endpoint.](../.gitbook/assets/screenshot_start_anno.png)
-
-
-
-
+![1: Search for the GWAS result of a variant, phenotype or gene. 2: Explore the loss-of-function burden \(LoF\) for gene-phenotypes combinations. 3: Find a particular phenotype/endpoint.](https://github.com/FINNGEN/finngen-documentation-private/tree/0496b541618432020f397f04df8274525b2309a6/.gitbook/assets/screenshot_start_anno.png)
 

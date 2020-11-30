@@ -78,3 +78,7 @@ Linkage disequilibrium \(LD\) was estimated from [SISU v3](methods/genotype-impu
 
 To learn more about the methods used, see section [LD estimation](methods/genotype-imputation/ld-estimation.md).
 
+## Variant annotation
+
+The variant annotation has measures \(`HWE`, `INFO`, ...\) listed per batch.
+
