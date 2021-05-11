@@ -1,12 +1,16 @@
 # Association tests
 
+## Endpoint
+
+We included ​​**2,803**​ endpoints from the phenotype/registry teams’ pipeline in the analysis. Endpoints with less than 100 cases among the **218,792** samples were excluded.
+
 ## Null models
 
-For the null model calculation for each endpoint, we used age, sex, 10 PCs and genotyping batch as covariates.
+For the null model computation for each endpoint, we used age, sex, 10 PCs and genotyping batch as covariates. Each genotyping batch was included as a covariate for an endpoint if there were at least 10 cases and 10 controls in that batch to avoid convergence issues. One genotyping batch need be excluded from covariates to not have them saturated. We excluded Thermo Fisher batch 16 as it was not enriched for any particular endpoints.
 
-For calculating the genetic relationship matrix, we used 49,811 independent, common, well-imputed variants with a posterior genotyping probability &gt;0.95 and missingness &lt;0.05 \(LD r2 &lt; 0.1, MAF &gt; 0.05, INFO &gt; 0.95\).
+For calculating the genetic relationship matrix, we used the genotype dataset where genotypes with GP &lt; 0.95 have been set missing. Only variants imputed with an INFO score &gt; 0.95 in all batches were used. Variants with &gt; 3 % missing genotypes were excluded as well as variants with MAF &lt; 1 %. The remaining variants were LD pruned with a 1Mb window and r2 threshold of 0.1. This resulted in a set of 58,702 well-imputed not rare variants for GRM calculation.
 
-[SAIGE](https://github.com/weizhouUMICH/SAIGE/) options for the null computation: 
+[SAIGE](https://github.com/weizhouUMICH/SAIGE/) options for the null computation:
 
 * `LOCO = false`
 * `numMarkers = 30`
@@ -15,9 +19,5 @@ For calculating the genetic relationship matrix, we used 49,811 independent, com
 
 ## Association tests
 
-We ran association tests against each of the 1,122 endpoints with [SAIGE](https://github.com/weizhouUMICH/SAIGE/) for each variant with a minimum allele count of 10 from the imputation pipeline \(SAIGE option`minMAC = 10`\). The alternative allele is always the effect allele. 
-
-## Software
-
-The code we used is available in [github.com/FINNGEN/SAIGE-IT/tree/master/SAIGE](https://github.com/FINNGEN/SAIGE-IT/tree/master/SAIGE). The original SAIGE codebase is available in [https://github.com/weizhouUMICH/SAIGE/](https://github.com/weizhouUMICH/SAIGE/).
+We ran association tests against each of the 2,803 endpoints with [SAIGE](https://github.com/weizhouUMICH/SAIGE/) for each variant with a minimum allele count of 5 from the imputation pipeline \(SAIGE option`minMAC = 5`\). We filtered the results to include variants with an imputation INFO &gt; 0.6.
 

@@ -26,3 +26,7 @@ And an example to extract variant range 20 Mb - 50 Mb from chromosome 7 is as fo
 ldstore --bcor FG_LD_chr7.bcor --incl-range 20000000-50000000 --table output_file_name.table
 ```
 
+## Note
+
+It is not preferred to use these LD estimate files for e.g. fine-mapping, since many of the fine-mapping methods \(e.g. SuSiE\) require in-sample LD information for good results!
+

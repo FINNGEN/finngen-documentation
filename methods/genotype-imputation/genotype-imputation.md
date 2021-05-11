@@ -10,5 +10,3 @@ Genotype imputation was carried out by using the population-specific SISu v3 imp
 
 Post-imputation quality-control involved checking expected conformity of the imputation INFO-value distribution, MAF differences between the target dataset and the imputation reference panel and checking chromosomal continuity of the imputed genotype calls.
 
-Optional: Post-imputation quality control also involved excluding variants imputed with imputation INFO&lt;0.7.
-

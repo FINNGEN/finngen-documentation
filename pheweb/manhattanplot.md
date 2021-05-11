@@ -1,17 +1,17 @@
 # GWAS overview
 
-Clicking on any phenotype will show you an overview of the [GWAS](../methods/phewas/) results: 
+Clicking on any phenotype will show you an overview of the [GWAS](../methods/phewas/) results:
 
 * Detailed info about **phenotype definition**
 * **Manhattan plot**
 * List of **top hits**
 * **Q-Q-plot**
 
-### Manhattan plot
+## Manhattan plot
 
-Clicking on any point will lead you to the[ locus zoom view](locus-zoom.md). 
+Clicking on any point will lead you to the[ locus zoom view](locus-zoom.md).
 
-### Top hits
+## Top hits
 
 <table>
   <thead>
@@ -33,9 +33,9 @@ Clicking on any point will lead you to the[ locus zoom view](locus-zoom.md).
     </tr>
     <tr>
       <td style="text-align:left">
-        <p><b>p-value  </b>
+        <p><b>p-value</b>
         </p>
-        <p><b>OR </b>
+        <p><b>OR</b>
         </p>
       </td>
       <td style="text-align:left">From <a href="../methods/phewas/logistic-regression.md#association-tests">association test</a> (alternative
@@ -48,6 +48,3 @@ Clicking on any point will lead you to the[ locus zoom view](locus-zoom.md).
     </tr>
   </tbody>
 </table>
-
-
-

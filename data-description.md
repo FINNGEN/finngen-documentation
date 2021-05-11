@@ -26,6 +26,10 @@ The `{endpoint}.gz` have the following structure:
 | **`maf`** | alternative \(effect\) allele frequency |
 | **`maf_cases`** | alternative \(effect\) allele frequency among cases |
 | **`maf_controls`** | alternative \(effect\) allele frequency among controls |
+| **`n_hom_cases`** | number of homozygous cases |
+| **`n_het_cases`** | number of heterozygous cases |
+| **`n_hom_controls`** | number of homozygous controls |
+| **`n_het_controls`** | number of heterozygous cases |
 
 ## Fine-mapping results
 
@@ -45,9 +49,9 @@ FINEMAP results have the following filename pattern:
 
 * `{endpoint}.FINEMAP.region.bgz`
 * `{endpoint}.FINEMAP.snp.bgz`
-* `{endpoint}.FINEMAP.cred.bgz`  
+* `{endpoint}.FINEMAP.config.bgz`
 
-To learn more about the methods used, see section [fine-mapping](methods/finemapping.md).
+To learn more about the methods used, see section [Fine-mapping](methods/finemapping.md).
 
 SuSiE output files `{endpoint}.SUSIE.snp.bgz` have the following structure:
 

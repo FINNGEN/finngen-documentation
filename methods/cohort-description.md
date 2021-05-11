@@ -1,18 +1,14 @@
 # Participating biobanks/cohorts
 
-The following biobanks and cohorts are part of the R2 release:
+Additionally to the biobanks mentioned in the previous releases, the following biobanks and cohorts are part of the R5 release:
 
-* [SUPER](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/super-study)
-* [Auria Biobank](https://auria.fi/en/)
-* [Blood Service Biobank](https://www.bloodservice.fi/Research%20Projects/biobanking)
-* [Borealis Biobank](https://www.oulu.fi/mrc/node/20008)
-* [Botnia study](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/the-botnia-study)
-* [Eastern Finland Biobank](https://ita-suomenbiopankki.fi/en/)
-* [FinHealth](https://thl.fi/en/web/thlfi-en/research-and-expertwork/population-studies/national-finhealth-study)
-* [FINRISK](https://thl.fi/en/web/thlfi-en/research-and-expertwork/population-studies/the-national-finrisk-study)
-* [GENERISK](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/generisk-study)
-* [Health 2000/2011](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/health-2000-and-2011-surveys)
-* [Helsinki Biobank](https://www.hus.fi/en/about-hus/helsinkibiobank/Pages/default.aspx)
-* [Migraine Family Study](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/migraine-study)
-* [THL Diabetes](https://thl.fi/en/web/thl-biobank/for-researchers/sample-collections/thl-diabetes-studies-1986-2013)
+* [Auria Biobank](https://www.auria.fi/biopankki/en/index.php)
+* [Biobank Borealis of Northern Finland](https://www.ppshp.fi/Tutkimus-ja-opetus/Biopankki/Pages/Biobank-Borealis-briefly-in-English.aspx)
+* [Biobank of Eastern Finland](https://ita-suomenbiopankki.fi/en/)
+* [Central Finland Biobank](www.ksshp.fi/fi-FI/Potilaalle/Biopankki)
+* [Finnish Red Cross Blood Service Biobank](https://www.bloodservice.fi/)
+* [Finnish Clinical Biobank Tampere](www.tays.fi/en-US/Research_and_development/Finnish_Clinical_Biobank_Tampere)
+* [Helsinki Biobank](https://www.terveyskyla.fi/helsinginbiopankki/en)
+* [Terveystalo Biobank](www.terveystalo.com/fi/Yritystietoa/Terveystalo-Biopankki/Biopankki/)
+* [THL Biobank](www.thl.fi/biobank)
 

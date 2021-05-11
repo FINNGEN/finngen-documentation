@@ -12,5 +12,5 @@ In **sample-wise** quality control, individuals with ambiguous gender, high geno
 
 ## Pre-phasing
 
-Prior imputation, chip genotyped samples were pre-phased with Eagle 2.3.5 \([https://data.broadinstitute.org/alkesgroup/Eagle/](https://data.broadinstitute.org/alkesgroup/Eagle/)\) with the default parameters, except the number of conditioning haplotypes was set to 20,000.
+Prior imputation, chip genotyped samples were pre-phased with [Eagle 2.3.5](https://data.broadinstitute.org/alkesgroup/Eagle/) with the default parameters, except the number of conditioning haplotypes was set to 20,000.
 
