@@ -21,5 +21,5 @@ You can use the following text:
 
 The manifest file with the link to all the downloadable summary stats is available at:
 
-{% embed url="https://storage.googleapis.com/finngen-public-data-r5/summary\_stats/R5\_manifest.tsv" %}
+{% embed url="https://storage.googleapis.com/finngen-public-data-r5/summary\_stats/R5\_manifest.tsv" caption="" %}
 
