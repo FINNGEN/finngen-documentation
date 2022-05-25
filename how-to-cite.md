@@ -1,12 +1,20 @@
 # How to cite
 
-You can use the following text to **acknowledge** the FinnGen study when using these results in publications:
+When using these results in publications, please remember to:
 
-> _We want to acknowledge the participants and investigators of FinnGen study_.
+1\)    Acknowledge the FinnGen study. You can use the following text:
 
-If you want to **cite** this website, use the following citation:
+_“We want to acknowledge the participants and investigators of the FinnGen study”_
 
-```text
+2\)    Cite our latest publication:
+
+Kurki M.I., et al. [FinnGen: Unique genetic insights from combining isolated population and national  health register data](https://www.medrxiv.org/content/10.1101/2022.03.03.22271360v1), medRxiv 2022.03.03.22271360; doi: [https://doi.org/10.1101/2022.03.03.22271360](https://doi.org/10.1101/2022.03.03.22271360)
+
+Furthermore, if possible, include "FinnGen" as a keyword for your publication.
+
+If you want to cite this website, use the following citation:
+
+```
 @online{finngen,
   author = {FinnGen},
   title = {{FinnGen} Documentation of R5 release},
@@ -15,4 +23,3 @@ If you want to **cite** this website, use the following citation:
   urldate = {YYYY-MM-DD}
 }
 ```
-
