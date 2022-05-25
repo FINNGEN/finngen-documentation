@@ -26,10 +26,12 @@ The `{endpoint}.gz` have the following structure:
 | **`maf`**            | alternative (effect) allele frequency                                                                |
 | **`maf_cases`**      | alternative (effect) allele frequency among cases                                                    |
 | **`maf_controls`**   | alternative (effect) allele frequency among controls                                                 |
-| **`n_hom_cases`**    | number of homozygous cases                                                                           |
-| **`n_het_cases`**    | number of heterozygous cases                                                                         |
-| **`n_hom_controls`** | number of homozygous controls                                                                        |
-| **`n_het_controls`** | number of heterozygous cases                                                                         |
+| **`n_hom_cases`**    | number of homozygous cases\*                                                                         |
+| **`n_het_cases`**    | number of heterozygous cases\*                                                                       |
+| **`n_hom_controls`** | number of homozygous controls\*                                                                      |
+| **`n_het_controls`** | number of heterozygous cases\*                                                                       |
+
+\*)Note that the results are based on imputed genotype dosages and produced using SAIGE and that is why the data is not presented as integers but might contain digits.
 
 ## Fine-mapping results
 
