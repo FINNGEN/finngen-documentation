@@ -14,7 +14,7 @@ Furthermore, if possible, include "FinnGen" as a keyword for your publication.
 
 
 
-If you want to **cite** this website, use the following citation: &#x20;
+If you want to cite this website, use the following citation: &#x20;
 
 ```
 @online{finngen,
