@@ -5,5 +5,3 @@ FinnGen a public-private partnership project combining genotype data from Finnis
 FinnGen is a growing project, aiming at 500,000 individuals in 2023.
 
 FinnGen results are subjected to one year embargo and, after that, available to the larger scientific community via the [Pheweb browser](http://r3.finngen.fi/) or through [data download](data-download.md).
-
-This documentation is written and compiled by FinnGen and licensed under [CC-BY-NC-SA.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
