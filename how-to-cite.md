@@ -8,7 +8,7 @@ _“We want to acknowledge the participants and investigators of the FinnGen stu
 
 2\)    Cite our latest publication:
 
-Kurki M.I., et al. [FinnGen: Unique genetic insights from combining isolated population and national  health register data](https://www.medrxiv.org/content/10.1101/2022.03.03.22271360v1), medRxiv 2022.03.03.22271360; doi: [https://doi.org/10.1101/2022.03.03.22271360](https://doi.org/10.1101/2022.03.03.22271360)
+Kurki M.I., et al. [FinnGen provides genetic insights from a well-phenotyped isolated population](https://www.nature.com/articles/s41586-022-05473-8). Nature 2023 Jan;613(7944):508-518. doi: 10.1038/s41586-022-05473-8. Epub 2023 Jan 18.
 
 Furthermore, if possible, include "FinnGen" as a keyword for your publication.
 
